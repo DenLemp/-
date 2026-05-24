@@ -1,0 +1,5 @@
+C:/DndDice/build_qt/CMakeFiles/DndDice.dir
+C:/DndDice/build_qt/CMakeFiles/edit_cache.dir
+C:/DndDice/build_qt/CMakeFiles/rebuild_cache.dir
+C:/DndDice/build_qt/CMakeFiles/DndDice_autogen_timestamp_deps.dir
+C:/DndDice/build_qt/CMakeFiles/DndDice_autogen.dir

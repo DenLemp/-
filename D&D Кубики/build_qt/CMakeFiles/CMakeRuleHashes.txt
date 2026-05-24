@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+28194e5db7155bd9a091f8594559808e CMakeFiles/DndDice_autogen
+21a1f87077012348ef15326c16c89db4 DndDice_autogen/3YJK5W5UP7/qrc_app.cpp
+f2769d7c5660b4b4119d104ac582c873 DndDice_autogen/timestamp

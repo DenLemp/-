@@ -1,0 +1,5 @@
+C:/D&D Кубики/build_qt/CMakeFiles/DndDice.dir
+C:/D&D Кубики/build_qt/CMakeFiles/edit_cache.dir
+C:/D&D Кубики/build_qt/CMakeFiles/rebuild_cache.dir
+C:/D&D Кубики/build_qt/CMakeFiles/DndDice_autogen_timestamp_deps.dir
+C:/D&D Кубики/build_qt/CMakeFiles/DndDice_autogen.dir
